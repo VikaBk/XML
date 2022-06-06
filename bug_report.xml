@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
- <Id>A1</Id>
- <Name>FF53 - User can enter alphabetical and special symbols to DOB field</Name>
-  <Steps>
+<bag_reports>
+  <Id>A1</Id>
+  <Name>FF53 - User can enter alphabetical and special symbols to DOB field</Name>
+   <Steps>
     <1.>Log in to MiAgent portal</1.>
     <2.>Search for a customer.</2.>
     <3.>Click on Edit icon near Income/ Last Changed.</3.>
     <4.>Click on Occupant.</4.>
     <5.>Enter alphabetical and special symbols to DOB field.</5.>
-     </Steps>
-<Actual result>User can enter alphabetical and special symbols to DOB field.</Actual result
-<Expected result>User can't enter alphabetical and special symbols to DOB field.</Expected result>
+    </Steps>
+  <Actual result>User can enter alphabetical and special symbols to DOB field.</Actual result
+  <Expected result>User can't enter alphabetical and special symbols to DOB field.</Expected result>
+</bag_reports>
